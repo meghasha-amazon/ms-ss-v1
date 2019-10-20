@@ -1,2 +1,0 @@
-env_variables:
-   GAE_PROFILER_MODE: cpu,heap

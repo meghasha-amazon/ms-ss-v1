@@ -1,3 +1,0 @@
-  <env-variables>
-    <env-var name="GAE_PROFILER_MODE" value="cpu,heap" />
-  </env-variables>
