@@ -1,0 +1,13 @@
+runtime: java
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  script: 
+
+- url: /index\.html
+  script: 
+
+- url: /index
+  static_dir: 
